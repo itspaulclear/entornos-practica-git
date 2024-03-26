@@ -1,5 +1,5 @@
 ## Mis repositorios 💻
-En este repositorio se mostrarán todos los proyectos realizados en la asignatura de Programación dentro del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web
+En este repositorio se mostrarán todos los proyectos realizados en la asignatura de Programación durante la realización del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web
 ## Java
 
 | Contenido teórico | Prácticas |
