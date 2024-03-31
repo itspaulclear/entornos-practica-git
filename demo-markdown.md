@@ -65,9 +65,11 @@
     - Se debe elegir *<ins>Create a new branch for this commit and start a pull request</ins>* si su rama actual es la rama predeterminada y realizar la subida pulsando sobre *<ins>Propose changes</ins>*.
 
         ![Commit](https://docs.github.com/assets/cb-27122/mw-1440/images/help/repository/choose-commit-branch.webp)
+***
 #### *Sígame en mis otras redes sociales para mantenerse actualizado de próximos tutoriales:*
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://accounts.google.com "pagarov@gmail.com")
+
 
