@@ -62,7 +62,7 @@
     ![Seleccionar archivos](https://docs.github.com/assets/cb-63135/mw-1440/images/help/repository/upload-files-button.webp)
 - Escriba un mensaje de confirmación breve y aclarativo para describir el archivo que desea subir a su repositorio. 
 - Debajo de los campos para el mensaje de confirmación, decide si deseas agregar tu confirmación a la rama actual o a una rama nueva. 
-    - Se debe elegir <ins> Create a new branch for this commit and start a pull request</ins> si su rama actual es la rama predeterminada y realizar la subida pulsando sobre <ins>Propose changes</ins>.
+    - Se debe elegir *<ins>Create a new branch for this commit and start a pull request</ins>* si su rama actual es la rama predeterminada y realizar la subida pulsando sobre *<ins>Propose changes</ins>*.
 
         ![Commit](https://docs.github.com/assets/cb-27122/mw-1440/images/help/repository/choose-commit-branch.webp)
 #### *Sígame en mis otras redes sociales para mantenerse actualizado de próximos tutoriales:*
