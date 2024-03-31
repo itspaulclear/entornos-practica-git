@@ -1,4 +1,4 @@
-## Agregar un archivo a un repositorio de Github 💻
+## Agregar archivos a un repositorio de GitHub 💻
 
 ### 1. Método tradicional
 > Se podrá realizar tanto con *Símbolo del sistema* como con *Git Bash* y se asume que el repositorio se encuentra enlazado con la cuenta personal del usuario.
@@ -6,7 +6,7 @@
 - Crea una carpeta para ubicar los archivos que se desean incluir dentro del repositorio local.
 
     - **Forma manual**: haz clic derecho sobre el área del escritorio para seleccionar la opción de *crear carpeta* e introduce cualquier nombre <ins>(resultará indiferente de cara al usuario)</ins>.
-    - **Forma automática**: Se deberá inicializar cualquiera de los softwares mencionados previamente <ins>(descarga la *suite* de **[Git](https://git-scm.com/downloads "Suite de Git")**)</ins> e introducir el siguiente comando:
+    - **Forma automática**: Se deberá inicializar cualquiera de los softwares mencionados previamente (descarga la *suite* de [Git](https://git-scm.com/downloads "Suite de Git")) e introducir el siguiente comando:
 
         ~~~
         mkdir NombreDeCarpeta
@@ -28,7 +28,7 @@
 
     | Símbolo del sistema | Git Bash |
     |---------------------|----------|
-    |![cmd](/img/ExploradorArchivos.jpg "cmd") | ![Git Bash](/img/GitBash.png "Git Bash") |
+    |![cmd](https://chuidiang.org/images/4/45/Cmd-desde-explorador.PNG "cmd") | ![Git Bash](https://acortar.link/1wLWVO "Git Bash") |
 - Deberá iniciar el software de *Git* introduciendo el siguiente comando:
     ~~~
     git init
@@ -49,23 +49,26 @@
 ### 1.1. Comandos empleados
 | **Generales** | ***Git*** |
 |-----------|-----|
-| ![Comandos generales](/img/ComandosGenerales.png "Comandos Generales") | ![Comandos Git](/img/ComandosGit.png "Comandos Git") |
+| cd nombreDeCarpeta | git add .|
+| cd .. | git add nombreDelArchivo |
+| copy archivo1.txt d1 | git commit -m "mensaje" |
+| | git push -u origin main
 
 ### 2. Método alternativo
 - Acceda a la web de [Github](https://github.com/) y regístrese para poder crear su primer repositorio haciendo clic en ***Sign up*** o inicie sesión con la opción de ***Sign in***.
 
-    ![Landing Page](/img/LandingPage.png)
+    ![GitHub](https://cdn.dribbble.com/users/11330554/screenshots/19405358/desktop_-_2.jpg)
 - Seleccione el menú desplegable ***Add file*** que se sitúa encima de la lista de archivos de su perfil y haga clic en ***Upload files***. Así mismo, dispone de la opción de arrastrar y colocar los archivos en el explorador.
 
-    ![Seleccionar archivos](/img/Alternativo.png)
+    ![Seleccionar archivos](https://docs.github.com/assets/cb-63135/mw-1440/images/help/repository/upload-files-button.webp)
 - Escriba un mensaje de confirmación breve y aclarativo para describir el archivo que desea subir a su repositorio. 
 - Debajo de los campos para el mensaje de confirmación, decide si deseas agregar tu confirmación a la rama actual o a una rama nueva. 
     - Se debe elegir <ins> Create a new branch for this commit and start a pull request</ins> si su rama actual es la rama predeterminada y realizar la subida pulsando sobre <ins>Propose changes</ins>.
 
-        ![Commit](/img/Commit.png)
+        ![Commit](https://docs.github.com/assets/cb-27122/mw-1440/images/help/repository/choose-commit-branch.webp)
 #### *Sígame en mis otras redes sociales para mantenerse actualizado de próximos tutoriales:*
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/pablo-garcía-rodríguez-3ba9992b2)
+)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](<a href="mailto:pagarov@gmail.com?Subject=Interesado%20en%20el%20curso">)
+)](https://accounts.google.com "pagarov@gmail.com")
 
