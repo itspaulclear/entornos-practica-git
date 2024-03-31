@@ -57,7 +57,6 @@
 ### 2. Método alternativo
 - Acceda a la web de [Github](https://github.com/) y regístrese para poder crear su primer repositorio haciendo clic en ***Sign up*** o inicie sesión con la opción de ***Sign in***.
 
-    ![GitHub](https://cdn.dribbble.com/users/11330554/screenshots/19405358/desktop_-_2.jpg)
 - Seleccione el menú desplegable ***Add file*** que se sitúa encima de la lista de archivos de su perfil y haga clic en ***Upload files***. Así mismo, dispone de la opción de arrastrar y colocar los archivos en el explorador.
 
     ![Seleccionar archivos](https://docs.github.com/assets/cb-63135/mw-1440/images/help/repository/upload-files-button.webp)
