@@ -28,7 +28,7 @@
 
     | Símbolo del sistema | Git Bash |
     |---------------------|----------|
-    |![cmd](https://chuidiang.org/images/4/45/Cmd-desde-explorador.PNG "cmd") | ![Git Bash](https://acortar.link/1wLWVO "Git Bash") |
+    |![cmd](https://chuidiang.org/images/4/45/Cmd-desde-explorador.PNG "cmd") | ![Git Bash](https://i.ibb.co/8c3cwy5/Captura-de-pantalla-2024-04-04-114539.png "Git Bash") |
 - Deberá iniciar el software de *Git* introduciendo el siguiente comando:
     ~~~
     git init
